@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 2241720194 - Yuma Rakha Samodra Sikayo - 3D
 
 ## Praktikum 1
