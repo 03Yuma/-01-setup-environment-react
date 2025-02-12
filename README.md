@@ -1,5 +1,4 @@
-# 2241720194 - Yuma Rakha Samodra Sikayo
-# Pertemuan 1
+# 2241720194 - Yuma Rakha Samodra Sikayo - 3D
 
 ## Praktikum 1
 1. Jelaskan Kegunaan masing masing dari git, VS Code dan NodeJS yang telah anda install pada sesi praktikum ini!
