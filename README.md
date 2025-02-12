@@ -48,4 +48,11 @@
 ## Praktikum 3
 tombol Buka Halaman telah muncul
 ![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20101427.png)
+
+## Praktikum 4
+1. untuk apakah kegunaan sintaks user.imageUrl?
+   sebagai sumber gambar yang akan ditampilkan yang kemudian diatur menggunakan style
+3. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil anda lakukan!
    
+   icon profile berhasil muncul
+   ![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20102244.png)
