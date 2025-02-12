@@ -9,6 +9,7 @@
 3. Buktikan dengan screnshoot yang menunjukkan bahwa masing masing tools tersebut telah berhasil di perangkat anda!
 
    instalisasi Git
+   
    ![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20083741.png)
    
    instalisasi node js
