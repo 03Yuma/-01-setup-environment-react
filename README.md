@@ -44,4 +44,8 @@
    ![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20085927.png)
    ![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20091233.png)
    ![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20090112.png)
+
+## Praktikum 3
+tombol Buka Halaman telah muncul
+![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20101427.png)
    
