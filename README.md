@@ -41,7 +41,7 @@
    - tsconfig.json = Konfigurasi TypeScript dalam proyek
      
 5. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
+   ![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20085927.png)
    ![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20091233.png)
    ![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20090112.png)
-   ![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20085927.png)
    
