@@ -54,4 +54,5 @@ tombol Buka Halaman telah muncul
 3. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil anda lakukan!
    
    icon profile berhasil muncul
+   
    ![](https://github.com/03Yuma/-01-setup-environment-react/blob/main/Cuplikan%20layar%202025-02-12%20102244.png)
